@@ -25,7 +25,8 @@ A Java Swing-based desktop application for managing employee records with full *
 | ![Login](https://github.com/user-attachments/assets/52ee7505-c3dc-4287-9c9a-e3db1ac97d49)
  | ![Home](https://github.com/user-attachments/assets/d150a9d0-ea6e-4ac0-9900-67121b225c59)
  | ![Add Employee](https://github.com/user-attachments/assets/31b3882e-dd76-4d1a-8693-f66400de77ee)
- | ![delete].(https://github.com/user-attachments/assets/b2e07e45-58b7-4027-9338-8f815928e0ae)
+![WhatsApp Image 2025-06-19 at 20 35 16_65c1c449](https://github.com/user-attachments/assets/850a2793-7a35-4cb8-b779-34e09c77f162)
+
 
 
 ---
