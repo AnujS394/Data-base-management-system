@@ -42,8 +42,3 @@ A Java Swing-based desktop application for managing employee records with full *
 
 ## 🛠 Setup Instructions
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AnujS394/Data-base-management-system.git
-cd Data-base-management-system
